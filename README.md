@@ -7,10 +7,10 @@
  ![alt-text](img/ChaoticStorage.PNG)
  
  # Amazon Air
- ![alt-text](img/amazon prime air.JPG)
+ ![alt-text](img/amazon_air.jpg)
  
  # Amazon Drone Delivery System
-
+ ![alt-text](img/aamazon_drone_delivery.jpg)
 
  # Amazon Flex System
- ![alt-text](img/Flex logo.PNG)
+ ![alt-text](img/Flex.PNG)
