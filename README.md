@@ -10,7 +10,7 @@
  ![alt-text](img/amazon_air.jpg)
  
  # Amazon Drone Delivery System
- ![alt-text](img/aamazon_drone_delivery.jpg)
+ ![alt-text](img/amazon_drone_delivery.jpg)
 
  # Amazon Flex System
  ![alt-text](img/Flex.PNG)
