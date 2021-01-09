@@ -4,7 +4,7 @@
   and provided solutions to meet the constant needs to react to continuous changing global business environment.
   
  # Amazon Chaotic Storage Strategy
- ![alt-text](img/Chaotic Storage.PNG)
+ ![alt-text](img/ChaoticStorage.PNG)
  
  # Amazon Air
  ![alt-text](img/amazon prime air.JPG)
